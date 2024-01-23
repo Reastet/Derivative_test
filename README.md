@@ -1,2 +1,3 @@
 # Derivative_test
-Project for learn derivative
+Project for learn derivatives
+It using special libraries ExprDraw and ExprMake to show formulas.
